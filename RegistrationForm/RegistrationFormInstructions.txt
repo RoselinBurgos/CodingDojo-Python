@@ -1,0 +1,18 @@
+Assignment: Registration Form
+
+Create a simple registration page with the following fields:
+
+email
+first_name
+last_name
+password
+confirm_password
+Here are the validations you must include:
+
+All fields are required and must not be blank
+First and Last Name cannot contain any numbers
+Password should be more than 8 characters
+Email should be a valid email
+Password and Password Confirmation should match
+When the form is submitted, make sure the user submits appropriate information. 
+If the user did not submit appropriate information, return the error(s) above the form that asks the user to correct the information.

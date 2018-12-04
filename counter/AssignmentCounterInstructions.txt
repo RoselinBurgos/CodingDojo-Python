@@ -1,0 +1,6 @@
+Build a flask application that counts the number of times the root route ('/') has been viewed. 
+
+As part of this assignment, please start with the following features first:
+
+localhost:5000- print in the terminal what's stored in session as well as have it render a template.
+localhost:5000/destroy_session - clear session (e.g. session.clear()).  Once the session is cleared, redirect to the root.
